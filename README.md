@@ -13,7 +13,7 @@ Easily copy all visible text from any webpage with a single click! This lightwei
 
 ## 📸 Screenshots
 
-> _Add a screenshot or GIF of your extension in action here!_
+![Copy All Text Extension Demo](screenshot.png)
 
 ---
 
