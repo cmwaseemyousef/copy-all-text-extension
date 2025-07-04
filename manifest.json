@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Copy All Text",
+  "version": "1.0",
+  "description": "Copy all text from the current webpage with one click.",
+  "permissions": ["activeTab", "scripting", "clipboardWrite"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
+}
